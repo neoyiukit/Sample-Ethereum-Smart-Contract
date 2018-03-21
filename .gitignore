@@ -1,2 +1,4 @@
-.vscode
-geth.log
+
+*.log
+.vscode/
+.gitignore
